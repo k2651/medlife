@@ -1,0 +1,88 @@
+.btn-rounded{
+    border-radius: 100% !important;
+}
+/* .fs {
+    font-size: 30px;
+} */
+.font-red {
+    font-size: 25px;
+    color:rgb(150, 0, 0) !important;
+}
+.font-green {
+    font-size: 25px;
+    color:rgb(0, 119, 0) !important;
+}
+.disp-none {
+    display:none;
+}
+.link {
+    color:white !important;
+}
+.card-text-font {
+    font-size: 17px;
+}
+.lang-size {
+    position: relative;
+    top:3px;
+    font-size: 25px !important;
+}
+.font-btn {
+    font-size: 20px;
+}
+.lang-right {
+    /* position: relative; */
+    margin-right: 0%;
+}
+.md-lg {
+    width:1300px !important;
+}
+.img-logo-navbar img{
+    width:28rem;
+}
+@media (max-width: 768px){
+    .img-logo-navbar img{
+        width:18rem;
+    }
+}
+
+
+.img-logo-navbar{
+    display: block;
+    margin: 0 auto;
+}
+.bg-green {
+    background-color: #32c69a!important;
+}
+.bg-light {
+    background-color: #ffffff!important;
+}
+#welcome-wp {
+    background-image:url('../images/index_hero.jpg')
+}
+
+.nav-text {
+    color: #FFFFFF !important;
+    font-size: 15px !important; 
+    font-weight: 500;
+    display: block;
+    position: relative;
+}
+
+.modal-dialog-custom{
+    margin:3rem 7.5% !important;
+}
+
+.modal-center {
+    position: fixed;
+    left: 50%;
+}
+.img-size {
+    width: 600px; 
+    height: 300px;
+}
+.h-card-dashboard {
+    height: 610px;
+}
+.h-subpage-card-dashboard {
+    height: 550px;
+}

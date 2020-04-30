@@ -4,11 +4,11 @@ Am elaborat un multilang site cu pagina de admin, aceasta având urmatoarea func
  
  • Adaugarea\Ștergerea limbilor;
  
- • CRUD pentru pagini și subpagini( subpaginile sunt paginile din dropdown-ul de pe navbar);
+ • CRUD pentru pagini și subpagini( subpaginile sunt paginile din dropdown-ul de pe navbar );
  
  • Posibilitatea de adăugare a textului pe fiecare pagină/subpagină cu ajutorul editorului summernote;
  
- • Posibilitatea de a crea Carduri(imagine, titlu și descriere) cu informatia succintă despre fiecare pagină/subpagină. (De asemenea CRUD);
+ • CRUD sistem pentru cardruri, acestea continind informatia succinta despre fiecare pagina.
  
  • Posibilitatea de a afișa 3 carduri pe pagina welcome s site-ului;
  

@@ -1,3 +1,5 @@
+Site --> medlife.md
+
 Am elaborat un multilang site cu pagina de admin, aceasta având urmatoarea funcționalitate:
  • Adaugarea\Ștergerea limbilor;
  • CRUD pentru pagini și subpagini( subpaginile sunt paginile din dropdown-ul de pe navbar);
